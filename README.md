@@ -1,6 +1,6 @@
 Some challenges on rootme:
 
-==============\n
+==============
 Programmation:
 ==============
 
@@ -15,5 +15,3 @@ Programmation:
 [+] Quick Response Code
 [+] ELF x64 - Sandbox shellcoding
 [-] ELF x86 - Shellcoding - Alphanumeric
-
-
